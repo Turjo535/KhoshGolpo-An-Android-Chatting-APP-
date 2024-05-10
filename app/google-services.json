@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735940270702",
+    "project_id": "khoshgolpo-242c7",
+    "storage_bucket": "khoshgolpo-242c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735940270702:android:28e2efd6db33faf289a47f",
+        "android_client_info": {
+          "package_name": "com.example.khoshgolpo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zniMZt4PaGxM_mzLKH6qGrRIqwWfzyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
